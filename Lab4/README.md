@@ -1,14 +1,8 @@
-# HW3
+# HW4
 
 
-
-
-In BLE Tool APP, Write all 4 Characteristic values to (hex) 65 66 67.
-Do so to avoid errors due to miscellaneous decode problems.
-
-Click Start Advertising
-
-then run the following command
+Run the following command on RPi 3B+
 sudo python ble_scan_connect.py
 
 
+The other files are for MBed Studio.
